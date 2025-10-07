@@ -1,4 +1,4 @@
-## Data Persistence Project: Brick Breaker
+## Data Persistence Project:
 Play the game on Unity Play!  ------> [Brick Breaker](https://play.unity.com/en/games/ed62bfa2-0ce2-4de7-a85c-6c3b521f700d/datapersistenceproject-unity-course)
 
 ### About This Project :
