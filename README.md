@@ -12,5 +12,5 @@ This brick-breaker game was built as a challenge for a Unity course to demonstra
 
 - Complete Game Loop: Includes a main menu, core gameplay, and a game over state.
 
-How to Play : 
+### How to Play : 
 Enter your name and compete for the highest score!
